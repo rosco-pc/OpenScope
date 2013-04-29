@@ -8,6 +8,7 @@ Firmware in spin/
 Protocol description between the 2 in doc/
 
 !! WARNING !! Firmware compiles but has not been tried out yet !! WARNING!!
+
 !! NOTE !! Application runs, but does not do anything yet really !! NOTE !!
 
 Application is written in python using PyQT or PySide whichever is available on your machine. 
