@@ -3,9 +3,9 @@ OpenScope
 
 OpenScope - PropScope firmware and Application replacement
 
-Application can be found in app/
-Firmware in spin/
-Protocol description between the 2 in doc/
+ Application can be found in app/
+ Firmware in spin/
+ Protocol description between the 2 in doc/
 
 !! WARNING !! Firmware compiles but has not been tried out yet !! WARNING!!
 
